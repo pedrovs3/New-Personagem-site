@@ -22,3 +22,7 @@ main{
 footer{
     height: 36px;
 }
+
+::selection{
+    background-color: var(--accent-color);
+}
